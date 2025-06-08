@@ -4,13 +4,13 @@ A web application that allows users to browse, add, and manage a collection of M
 
 ---
 
-## 🗂 Overview
+## Overview
 
 This project is a full-stack application built using a modern frontend and a Python Flask backend with PostgreSQL integration. It demonstrates how to combine multiple AWS services to deploy a fully functioning web app.
 
 ---
 
-## 🔧 Features
+## Features
 
 * View a list of Marvel and DC superhero movies
 * Sort movies by ID, title, year, genre, runtime, and IMDb score
@@ -20,7 +20,7 @@ This project is a full-stack application built using a modern frontend and a Pyt
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -37,7 +37,7 @@ This project is a full-stack application built using a modern frontend and a Pyt
 
 ---
 
-## ☁ Deployment
+## Deployment
 
 ### Frontend Hosting
 
@@ -62,7 +62,7 @@ This project is a full-stack application built using a modern frontend and a Pyt
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ```
 AWS-Mini-Web-App/
@@ -75,7 +75,7 @@ AWS-Mini-Web-App/
 
 ---
 
-## 🔌 Deployment Architecture
+## Deployment Architecture
 
 This app uses several AWS services to provide a production-like environment:
 
@@ -91,7 +91,7 @@ Security groups are configured to:
 
 ---
 
-## 🎬 Data Source
+## Data Source
 
 * Movie data inspired by **Marvel** and **DC Comics** superhero franchises
 * IMDb scores and metadata referenced from public movie databases
